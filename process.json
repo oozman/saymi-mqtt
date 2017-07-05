@@ -1,0 +1,9 @@
+{
+  apps: [
+    {
+      name: "Air Purifier",
+      script: "./airpurifier.js",
+      watch: true
+    }
+  ]
+}
